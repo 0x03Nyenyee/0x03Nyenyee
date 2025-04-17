@@ -15,3 +15,10 @@
 <div align="center" bis_skin_checked="1">
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Reem+Kufi+Fun&duration=3000&pause=100&color=9AF7E4&background=02060500&center=true&vCenter=true&width=435&lines=Hallo+I'am+Nyenyee+%E2%9C%8C%EF%B8%8E%EF%B8%8E;Aka+Nolep+Handal+;Aku+Jadi+Duta+Nolep+Handal;Dulu+Pernah+Jadi+Duta+Nolep;Sampe+Sekarang+Masih+Nolep+%E2%98%95%EF%B8%8E" alt="Typing SVG" /></a>
   </div>
+
+  ## 🔥 Github Stats
+
+<img align="right" width="38%" src="https://nyenyeeits.me/images/gh/tatsumaki.png"/>
+
+  <a href="https://github.com/0x03Nyenyee"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=0x03Nyenyee&theme=radical&title_color=ff3068?"></a>
+  <a href="https://github.com/0x03Nyenyee"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=0x03Nyenyee&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
