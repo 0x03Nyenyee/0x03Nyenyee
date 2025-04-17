@@ -10,7 +10,7 @@
       <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://nyenyeeits.me/images/gh/tsah.jpg">
   </div>
   <div align="center" bis_skin_checked="1">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Reem+Kufi+Fun&duration=3000&pause=100&color=AFCBFF&background=02060500&center=true&vCenter=true&width=435&lines=Hallo+I'am+Nyenyee;Aka+Nolep+Handal+%E2%9C%8C%EF%B8%8E%EF%B8%8E;Aku+Jadi+Duta+Nolep+Handal;Dulu+Pernah+Jadi+Duta+Nolep;Sampe+Sekarang+Masih+Nolep+%E2%98%BA+" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Reem+Kufi+Fun&duration=3000&pause=100&color=9AF7E4&background=02060500&center=true&vCenter=true&width=435&lines=Hallo+I'am+Nyenyee;Aka+Nolep+Handal+%E2%9C%8C%EF%B8%8E%EF%B8%8E;Aku+Jadi+Duta+Nolep+Handal;Dulu+Pernah+Jadi+Duta+Nolep;Sampe+Sekarang+Masih+Nolep+%E2%98%BA+" alt="Typing SVG" /></a>
   </div>
 </div>
 <details>
@@ -87,4 +87,4 @@
 </div>
 <hr>
 <p>Credits: <a href="https://github.com/0x03Nyenyee">Nyenyee</a>
-Last Edited on: 30/03/2025</p> 
+Redited on: 18/04/2025</p> 
