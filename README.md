@@ -1,4 +1,4 @@
-  [![](https://visitcount.itsvg.in/api?id=0x03Nyenyee&label=Views%20%F0%9F%98%8A&color=12&icon=3&pretty=true)](https://visitcount.itsvg.in)
+
 <div align="center" bis_skin_checked="1">
 <p><img src="https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png" alt="Top of pokeball"></p>
 <details>
