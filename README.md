@@ -3,7 +3,7 @@
 ![](https://nyenyeeits.me/images/gh/plank3.png)
 
 <p align="center">
-  <a href="https://www.youtube.com/"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.youtube.com/"><img width="32px" alt="Youtube" title="Youtube" src="https://imgur.com/mXz8Cmw"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
