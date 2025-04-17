@@ -1,4 +1,3 @@
-  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=0x03Nyenyee&color=blueviolet)
 <div align="center" bis_skin_checked="1">
 <p><img src="https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png" alt="Top of pokeball"></p>
 <details>
@@ -87,3 +86,5 @@
 <hr>
 <p>Credits: <a href="https://github.com/0x03Nyenyee">Nyenyee</a>
 Last Edited on: 30/03/2025</p> 
+
+[![](https://visitcount.itsvg.in/api?id=0x03Nyenyee&label=Views%20%F0%9F%98%89&color=9&icon=7&pretty=true)](https://visitcount.itsvg.in)
