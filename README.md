@@ -9,7 +9,7 @@
       <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://nyenyeeits.me/images/gh/tsah.jpg">
   </div>
   <div align="center" bis_skin_checked="1">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Reem+Kufi+Fun&duration=3000&pause=100&color=D8A7B1&amp;center=true&amp;vCenter=true&amp;width=500&amp;liness=Hallo+I'am+Nyenyee;Aka+Nolep+Handal+%E2%9C%8C%EF%B8%8E%EF%B8%8E;Aku+Jadi+Duta+Nolep+Handal;Dulu+Pernah+Jadi+Duta+Nolep;Sampe+Sekarang+Masih+Nolep+%E2%98%BA+" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Reem+Kufi+Fun&duration=3000&pause=100&color=D8A7B1&amp;center=true&amp;vCenter=true&amp;width=500&amp;liness=Hallo+I'am+Nyenyee;Aka+Nolep+Handal+%E2%9C%8C%EF%B8%8E%EF%B8%8E;Aku+Jadi+Duta+Nolep+Handal;Dulu+Pernah+Jadi+Duta+Nolep;Sampe+Sekarang+Masih+Nolep+%E2%98%BA+" alt="Typing SVG" /></a>
   </div>
 </div>
 <details>
