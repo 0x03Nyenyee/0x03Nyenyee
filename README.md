@@ -18,7 +18,7 @@
 
   ## 🔥 Github Stats
 
-<img align="right" width="38%" src="https://nyenyeeits.me/images/gh/tatsumaki.png"/>
+<img align="right" width="38%" src="https://nyenyeeits.me/images/gh/tatsumaki2.png"/>
 
   <a href="https://github.com/0x03Nyenyee"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=0x03Nyenyee&theme=radical&title_color=ff3068?"></a>
   <a href="https://github.com/0x03Nyenyee"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=0x03Nyenyee&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
