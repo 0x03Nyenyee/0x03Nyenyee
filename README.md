@@ -22,3 +22,8 @@
 
   <a href="https://github.com/0x03Nyenyee"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=0x03Nyenyee&theme=radical&title_color=ff3068?"></a>
   <a href="https://github.com/0x03Nyenyee"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=0x03Nyenyee&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+
+  ## 📘 My top open source projects
+
+  <a href="https://github.com/0x03Nyenyee/Indexing-api-"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0x03Nyenyee&repo=Enhanced-TTVDropBot&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+</p>
