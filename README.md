@@ -1,4 +1,4 @@
-[![](https://visitcountpro.netlify.app/api?id=0x03Nyenyee&label=Views%20%F0%9F%98%89&color=10&icon=7&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcountpro.netlify.app/api?id=0x03Nyenyee&label=Views%20%E0%B4%A6%E0%B5%8D%E0%B4%A6%E0%B4%BF(%CB%B5%20%E2%80%A2%CC%80%20%E1%B4%97%20-%20%CB%B5%20)%20%E2%9C%A7&color=9&icon=7&pretty=true)](https://visitcount.itsvg.in)
 <div align="center" bis_skin_checked="1">
 <p><img src="https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png" alt="Top of pokeball"></p>
 <details>
