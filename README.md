@@ -5,10 +5,10 @@
 <p align="center">
   <a href="https://www.youtube.com/"><img width="32px" alt="Youtube" title="Youtube" src="https://nyenyeeits.me/images/gh/yt.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://twitter.com/"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/tw.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/" alt="Join our community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.gg/" alt="Join our community"><img width="32px" src="https://i.imgur.com/dc.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/nezukobot"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  <a href="https://ko-fi.com/nezukobot"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/cf.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
