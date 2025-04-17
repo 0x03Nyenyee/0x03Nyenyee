@@ -10,7 +10,7 @@
       <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://nyenyeeits.me/images/gh/tsah.jpg">
   </div>
   <div align="center" bis_skin_checked="1">
-      <a href="https://git.io/typing-svg" bis_size="{&quot;x&quot;:542,&quot;y&quot;:1309,&quot;w&quot;:500,&quot;h&quot;:50,&quot;abs_x&quot;:542,&quot;abs_y&quot;:1309}"><img src="https://readme-typing-svg.demolab.com?font=VT323&amp;size=35&amp;duration=3500&amp;pause=300&amp;color=A89568&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Hey%2C+I'm+Nyenyee;Aka+just-nickname;Welcome+to+my+profile!;Description+of+myself%3A;Just No-life+people;My+hobbies+play+game;AI+enthusiast;Sleep+lover;Confident+and+ambitious;Long-distance-Relationship;" alt="Typing SVG" bis_size="{&quot;x&quot;:542,&quot;y&quot;:1309,&quot;w&quot;:500,&quot;h&quot;:50,&quot;abs_x&quot;:542,&quot;abs_y&quot;:1309}" bis_id="bn_1u6a9rv6sl32u51xiz32dc"></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Reem+Kufi+Fun&duration=3000&pause=100&color=AFCBFF&background=02060500&vCenter=true&width=435&lines=Hallo+I'am+Nyenyee;Aka+Nolep+Handal+%E2%9C%8C%EF%B8%8E%EF%B8%8E;Aku+Jadi+Duta+Nolep+Handal;Dulu+Pernah+Jadi+Duta+Nolep;Sampe+Sekarang+Masih+Nolep+%E2%98%BA+" alt="Typing SVG" /></a>
   </div>
 </div>
 <details>
