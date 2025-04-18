@@ -23,6 +23,7 @@
   <a href="https://instagram.com/Anmol-Baranwal"><img src="https://img.shields.io/badge/instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=69957B" /></a>
   <a href="https://youtube.com/itsnemoo"><img src="https://img.shields.io/badge/youtube-ffffff?style=for-the-badge&logo=youtube&logoColor=69957B" ></a>
 </div>
+<hr>
 
 <hr>
 
@@ -39,8 +40,8 @@
   <a href="https://github.com/0x03Nyenyee/Indexing-api-"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=0x03Nyenyee&repo=Indexing-api-&theme=aura&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
   <a href="https://github.com/0x03Nyenyee/Hidden-shell"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=0x03Nyenyee&repo=Hidden-shell&theme=aura&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 </p>
-
 <br clear="both">
+<hr>
 
 
 
