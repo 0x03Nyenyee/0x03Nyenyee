@@ -3,13 +3,13 @@
 ![](https://nyenyeeits.me/images/gh/plank3.png)
 
 <p align="center">
-  <a href="https://www.youtube.com/"><img width="32px" alt="Youtube" title="Youtube" src="https://nyenyeeits.me/images/gh/yt.png"/></a>
+  <a href="https://www.youtube.com/"><img width="32px" alt="Youtube" title="Youtube" src="https://nyenyeeits.me/images/gh/yt1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/"><img width="32px" alt="Twitter" title="Twitter" src="https://nyenyeeits.me/images/gh/tw.png"/></a>
+  <a href="https://twitter.com/"><img width="32px" alt="Twitter" title="Twitter" src="https://nyenyeeits.me/images/gh/tw1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/" alt="Join our community"><img width="32px" src="https://nyenyeeits.me/images/gh/dc.png"/></a>
+  <a href="https://discord.gg/" alt="Join our community"><img width="32px" src="https://nyenyeeits.me/images/gh/dc1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/nezukobot"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://nyenyeeits.me/images/gh/cf.png"/></a>
+  <a href="https://ko-fi.com/nezukobot"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://nyenyeeits.me/images/gh/cf1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <div align="center" bis_skin_checked="1">
