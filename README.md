@@ -2,6 +2,7 @@
 
 ![](https://nyenyeeits.me/images/gh/plank3.png)
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div align="center" bis_skin_checked="1">
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Reem+Kufi+Fun&duration=3000&pause=100&color=9AF7E4&background=02060500&center=true&vCenter=true&width=435&lines=Hallo+I'am+Nyenyee+%E2%9C%8C%EF%B8%8E%EF%B8%8E;Bukan+Siapa-siapa;Hanya+Orang+Biasa+Tapi+Luar+Biasa;Mabar+Yuk+Contact+Di+Bawah" alt="Typing SVG" /></a>
 </div>
@@ -17,8 +18,6 @@
   <a href="https://instagram.com/Anmol-Baranwal"><img src="https://img.shields.io/badge/instagram-69957B?style=for-the-badge&logo=instagram&logoColor=ffffff" /></a>
   <a href="https://youtube.com/itsnemoo"><img src="https://img.shields.io/badge/youtube-69957B?style=for-the-badge&logo=youtube&logoColor=ffffff" ></a>
 </div>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Github Stats
 
@@ -39,9 +38,8 @@
 
 
  ## <img align="left" width="32px" src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif"/> ദ്ദി(ᵔᗜᵔ) Thank For Reading
-  
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div align="center">
   <img height="300" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif"  />
 </div>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
