@@ -6,16 +6,16 @@
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Reem+Kufi+Fun&duration=3000&pause=100&color=9AF7E4&background=02060500&center=true&vCenter=true&width=435&lines=Hallo+I'am+Nyenyee+%E2%9C%8C%EF%B8%8E%EF%B8%8E;Bukan+Siapa-siapa;Hanya+Orang+Biasa+Tapi+Luar+Biasa;Mabar+Yuk+Contact+Di+Bawah" alt="Typing SVG" /></a>
 </div>
 
-<p align="center">
-  <a href="https://www.youtube.com/"><img width="50px" alt="Youtube" title="Youtube" src="https://nyenyeeits.me/images/gh/yt1.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/"><img width="50px" alt="Twitter" title="Twitter" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/" alt="Join our community"><img width="50px" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://tiktok.com/"><img width="50px" alt="Tiktok" title="Follow Tiktok" src="https://user-images.githubusercontent.com/74038190/235294006-04e22871-2943-4626-9a99-e1d416cbda26.gif"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
+<div align="center">
+  <a href="https://discordapp.com/users/776749637826117699"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="nyenyee#7140" >
+  <br>
+  <a href="https://www.facebook.com/anmolbaranwal"><img src="https://img.shields.io/badge/facebook-0A0209?style=for-the-badge&logo=facebook&logoColor=d5d5d5" ></a>
+  <a href="https://peerlist.io/anmolbaranwal"><img src="https://img.shields.io/badge/peerlist-0A0209?style=for-the-badge&logo=peerlist&logoColor=d5d5d5" ></a>
+  <br>
+  <a href="https://www.producthunt.com/@anmol-baranwal"><img src="https://img.shields.io/badge/Product%20Hunt-d5d5d5?style=for-the-badge&logo=Product%20Hunt&logoColor=0A0209" /></a>
+  <a href="https://devpost.com/Anmol-Baranwal"><img src="https://img.shields.io/badge/Devpost-d5d5d5?style=for-the-badge&logo=Devpost&logoColor=0A0209" /></a> 
+  <a href="https://www.showwcase.com/anmol-baranwal"><img src="https://img.shields.io/badge/showwcase-d5d5d5?style=for-the-badge&logo=showwcase&logoColor=0A0209" ></a>
+</div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
