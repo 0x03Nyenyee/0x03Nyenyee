@@ -13,7 +13,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/" alt="Join our community"><img width="32px" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/nezukobot"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://nyenyeeits.me/images/gh/cf1.png"/></a>
+  <a href="https://tiktok.com/"><img width="32px" alt="Tiktok" title="Follow Tiktok" src="https://user-images.githubusercontent.com/74038190/235294006-04e22871-2943-4626-9a99-e1d416cbda26.gif"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
