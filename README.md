@@ -10,7 +10,7 @@
   <a href="https://facebook.com/tricktag/"><img src="https://img.shields.io/badge/facebook-69957B?style=for-the-badge&logo=facebook&logoColor=ffffff" /></a> 
   <br>
   <a href="https://discordapp.com/users/776749637826117699"><img src="https://img.shields.io/badge/Discord-ffffff?style=for-the-badge&logo=discord&logoColor=69957B" alt="nyenyee#7140" >
-  <a href="https://www.tiktok.com/"><img src="https://img.shields.io/badge/tiktok-ffffff?style=for-the-badge&logo=tiktok&logoColor=69957B" /></a>
+  <a href="https://www.tiktok.com/itsnemoo/"><img src="https://img.shields.io/badge/tiktok-ffffff?style=for-the-badge&logo=tiktok&logoColor=69957B" /></a>
   <br>
   <a href="mailto:rivalbaik4@gmail.com"><img src="https://img.shields.io/badge/gmail-69957B?style=for-the-badge&logo=gmail&logoColor=ffffff" ></a>
   <a href="https://instagram.com/Anmol-Baranwal"><img src="https://img.shields.io/badge/instagram-69957B?style=for-the-badge&logo=instagram&logoColor=ffffff" /></a>
