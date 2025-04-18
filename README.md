@@ -11,7 +11,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/"><img width="32px" alt="Twitter" title="Twitter" src="https://nyenyeeits.me/images/gh/tw1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/" alt="Join our community"><img width="32px" src="https://nyenyeeits.me/images/gh/dc1.png"/></a>
+  <a href="https://discord.gg/" alt="Join our community"><img width="32px" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/nezukobot"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://nyenyeeits.me/images/gh/cf1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
