@@ -7,14 +7,14 @@
 </div>
 
 <div align="center">
-  <a href="https://discordapp.com/users/776749637826117699"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="nyenyee#7140" >
+  <a href="https://facebook.com/Anmol-Baranwal"><img src="https://img.shields.io/badge/facebook-69957B?style=for-the-badge&logo=facebook&logoColor=ffffff" /></a> 
   <br>
-  <a href="https://www.facebook.com/anmolbaranwal"><img src="https://img.shields.io/badge/facebook-0A0209?style=for-the-badge&logo=facebook&logoColor=d5d5d5" ></a>
-  <a href="https://peerlist.io/anmolbaranwal"><img src="https://img.shields.io/badge/peerlist-0A0209?style=for-the-badge&logo=peerlist&logoColor=d5d5d5" ></a>
+  <a href="https://discordapp.com/users/776749637826117699"><img src="https://img.shields.io/badge/Discord-ffffff?style=for-the-badge&logo=discord&logoColor=69957B" alt="nyenyee#7140" >
+  <a href="https://www.tiktok.com/"><img src="https://img.shields.io/badge/tiktok-ffffff?style=for-the-badge&logo=tiktok&logoColor=69957B" /></a>
   <br>
-  <a href="https://www.producthunt.com/@anmol-baranwal"><img src="https://img.shields.io/badge/Product%20Hunt-d5d5d5?style=for-the-badge&logo=Product%20Hunt&logoColor=0A0209" /></a>
-  <a href="https://devpost.com/Anmol-Baranwal"><img src="https://img.shields.io/badge/Devpost-d5d5d5?style=for-the-badge&logo=Devpost&logoColor=0A0209" /></a> 
-  <a href="https://www.showwcase.com/anmol-baranwal"><img src="https://img.shields.io/badge/showwcase-d5d5d5?style=for-the-badge&logo=showwcase&logoColor=0A0209" ></a>
+  <a href="https://www.gmail.com/anmolbaranwal"><img src="https://img.shields.io/badge/gmail-69957B?style=for-the-badge&logo=gmail&logoColor=ffffff" ></a>
+  <a href="https://instagram.com/Anmol-Baranwal"><img src="https://img.shields.io/badge/instagram-69957B?style=for-the-badge&logo=instagram&logoColor=ffffff" /></a>
+  <a href="https://youtube.com/itsnemoo"><img src="https://img.shields.io/badge/youtube-69957B?style=for-the-badge&logo=youtube&logoColor=ffffff" ></a>
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
