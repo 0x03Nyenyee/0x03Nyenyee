@@ -32,8 +32,8 @@
 
 <br clear="both">
 
-<p align="left">ദ്ദി(ᵔᗜᵔ)   Thank For Reading</p>
-
+  ## ദ്ദി(ᵔᗜᵔ) Thank For Reading
+  
 ###
 
 <div align="center">
