@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.youtube.com/"><img width="50px" alt="Youtube" title="Youtube" src="https://nyenyeeits.me/images/gh/yt1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/"><img width="50px" alt="Twitter" title="Twitter" src="https://nyenyeeits.me/images/gh/tw1.png"/></a>
+  <a href="https://twitter.com/"><img width="50px" alt="Twitter" title="Twitter" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/" alt="Join our community"><img width="50px" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
