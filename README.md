@@ -25,7 +25,7 @@
 </div>
 <hr>
 
-<img align="center" width="38%" src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif"/>
+<img align="center" height="50" src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif"/>
 
 <hr>
 
