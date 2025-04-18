@@ -27,5 +27,5 @@
 
 <p align="left">
   <a href="https://github.com/0x03Nyenyee/Indexing-api-"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=0x03Nyenyee&repo=Indexing-api-&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-  <a href="https://github.com/0x03Nyenyee/Hidden-shell"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Giingu&repo=Hidden-shell&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+  <a href="https://github.com/0x03Nyenyee/Hidden-shell"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=0x03Nyenyee&repo=Hidden-shell&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 </p>
