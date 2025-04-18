@@ -4,9 +4,9 @@
 
 <div align="center" bis_skin_checked="1">
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Reem+Kufi+Fun&duration=3000&pause=100&color=9AF7E4&background=02060500&center=true&vCenter=true&width=435&lines=Hallo+I'am+Nyenyee+%E2%9C%8C%EF%B8%8E%EF%B8%8E;Bukan+Siapa-siapa;Hanya+Orang+Biasa+Tapi+Luar+Biasa;Mabar+Yuk+Contact+Di+Bawah" alt="Typing SVG" /></a>
-  </div>
+</div>
 
-  <p align="center">
+<p align="center">
   <a href="https://www.youtube.com/"><img width="32px" alt="Youtube" title="Youtube" src="https://nyenyeeits.me/images/gh/yt1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/"><img width="32px" alt="Twitter" title="Twitter" src="https://nyenyeeits.me/images/gh/tw1.png"/></a>
