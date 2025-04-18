@@ -33,7 +33,7 @@
 
 <br clear="both">
 
-  ## <img align="left" width="50px" src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif"/> ദ്ദി(ᵔᗜᵔ) Thank For Reading
+  ## <img align="left" width="32px" src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif"/> ദ്ദി(ᵔᗜᵔ) Thank For Reading
   
 ###
 
