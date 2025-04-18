@@ -7,13 +7,13 @@
 </div>
 
 <p align="center">
-  <a href="https://www.youtube.com/"><img width="32px" alt="Youtube" title="Youtube" src="https://nyenyeeits.me/images/gh/yt1.png"/></a>
+  <a href="https://www.youtube.com/"><img width="50px" alt="Youtube" title="Youtube" src="https://nyenyeeits.me/images/gh/yt1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/"><img width="32px" alt="Twitter" title="Twitter" src="https://nyenyeeits.me/images/gh/tw1.png"/></a>
+  <a href="https://twitter.com/"><img width="50px" alt="Twitter" title="Twitter" src="https://nyenyeeits.me/images/gh/tw1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/" alt="Join our community"><img width="32px" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif"/></a>
+  <a href="https://discord.gg/" alt="Join our community"><img width="50px" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://tiktok.com/"><img width="32px" alt="Tiktok" title="Follow Tiktok" src="https://user-images.githubusercontent.com/74038190/235294006-04e22871-2943-4626-9a99-e1d416cbda26.gif"/></a>
+  <a href="https://tiktok.com/"><img width="50px" alt="Tiktok" title="Follow Tiktok" src="https://user-images.githubusercontent.com/74038190/235294006-04e22871-2943-4626-9a99-e1d416cbda26.gif"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
@@ -33,7 +33,7 @@
 
 <br clear="both">
 
-  ## <img align="left" width="32px" src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif"/> ദ്ദി(ᵔᗜᵔ) Thank For Reading
+  ## <img align="left" width="50px" src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif"/> ദ്ദി(ᵔᗜᵔ) Thank For Reading
   
 ###
 
