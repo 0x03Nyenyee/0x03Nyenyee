@@ -12,7 +12,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> My socials
 
-> You can like, follow or send me message, and we can play if you want. Because i am [NOLEP](https://nyenyeeits.me/)
+> You can like, follow or send me message, and we can play game if you want. Because i am [NOLEP](https://nyenyeeits.me/)
 <div align="center">
   <a href="https://facebook.com/Anmol-Baranwal"><img src="https://img.shields.io/badge/facebook-ffffff?style=for-the-badge&logo=facebook&logoColor=69957B" /></a> 
   <br>
