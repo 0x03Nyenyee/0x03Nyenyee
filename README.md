@@ -33,7 +33,7 @@
 
 <br clear="both">
 
-  ## <img align="left" width="32px" src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif"/> <h3 align="center">📘 My top open source projects</h3>
+  ## <img align="middle" width="32px" src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif"/> <h3 align="center">📘 My top open source projects</h3>
   
 ###
 
