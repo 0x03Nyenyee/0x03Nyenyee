@@ -20,7 +20,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-  ## 🔥 Github Stats
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Github Stats
 
 <img align="right" width="38%" src="https://nyenyeeits.me/images/gh/tatsumaki2.png"/>
 
