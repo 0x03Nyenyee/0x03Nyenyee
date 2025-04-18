@@ -7,7 +7,12 @@
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Reem+Kufi+Fun&duration=3000&pause=100&color=9AF7E4&background=02060500&center=true&vCenter=true&width=435&lines=Hallo+I'am+Nyenyee+%E2%9C%8C%EF%B8%8E%EF%B8%8E;Bukan+Siapa-siapa;Hanya+Orang+Biasa+Tapi+Luar+Biasa;Mabar+Yuk+Contact+Di+Bawah" alt="Typing SVG" /></a>
 </div>
 
+<br>
+<hr>
+
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> My socials
+
+> You can like, follow or send me message, and we can play if you want. Because i am [NOLEP](https://nyenyeeits.me/)
 <div align="center">
   <a href="https://facebook.com/Anmol-Baranwal"><img src="https://img.shields.io/badge/facebook-ffffff?style=for-the-badge&logo=facebook&logoColor=69957B" /></a> 
   <br>
@@ -18,6 +23,8 @@
   <a href="https://instagram.com/Anmol-Baranwal"><img src="https://img.shields.io/badge/instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=69957B" /></a>
   <a href="https://youtube.com/itsnemoo"><img src="https://img.shields.io/badge/youtube-ffffff?style=for-the-badge&logo=youtube&logoColor=69957B" ></a>
 </div>
+
+<hr>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Github Stats
 
