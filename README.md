@@ -34,7 +34,7 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Github Stats
 > Dont Believe you see, This is Just...............
 
-<img align="right" width="38%" src="https://nyenyeeits.me/images/gh/tatsumaki2.png"/>
+<img align="right" width="38%" src="https://nyenyeeits.me/images/gh/tatsumaki.png"/>
 
   <a href="https://github.com/0x03Nyenyee"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=0x03Nyenyee&theme=tokyonight&title_color=ff3068?"></a>
   <a href="https://github.com/0x03Nyenyee"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=0x03Nyenyee&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
