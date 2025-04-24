@@ -1,6 +1,6 @@
 [![](https://visitcountpro.netlify.app/api?id=0x03Nyenyee&label=Views%20%E0%B4%A6%E0%B5%8D%E0%B4%A6%E0%B4%BF(%CB%B5%20%E2%80%A2%CC%80%20%E1%B4%97%20-%20%CB%B5%20)%20%E2%9C%A7&color=9&icon=7&pretty=true)](https://visitcount.itsvg.in)
 
-![](https://nyenyeeits.me/images/gh/plank.png)
+![](https://nyenyeeits.me/images/gh/plank3.png)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div align="center" bis_skin_checked="1">
@@ -34,10 +34,10 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Github Stats
 > Dont Believe you see, This is Just...............
 
-<img align="right" width="38%" src="https://nyenyeeits.me/images/gh/tatsumaki.png"/>
+<img align="right" width="38%" src="https://nyenyeeits.me/images/gh/tatsumaki2.png"/>
 
   <a href="https://github.com/0x03Nyenyee"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=0x03Nyenyee&theme=tokyonight&title_color=ff3068?"></a>
-  <a href="https://github.com/0x03Nyenyee"><img width="50%" src="http://github-readme-streak-stats.vercel.app/?user=0x03Nyenyee&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+  <a href="https://github.com/0x03Nyenyee"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=0x03Nyenyee&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
 ## <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">  My top open source projects
 
