@@ -37,7 +37,7 @@
 <img align="right" width="38%" src="https://nyenyeeits.me/images/gh/tatsumaki.png"/>
 
   <a href="https://github.com/0x03Nyenyee"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=0x03Nyenyee&theme=tokyonight&title_color=ff3068?"></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0x03Nyenyee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false&order=2&custom_title=Bahasa%20Alien" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0x03Nyenyee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2&custom_title=Bahasa%20Alien" height="150" alt="languages graph"  />
 
 ## <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">  My top open source projects
 
