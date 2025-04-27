@@ -16,7 +16,7 @@
 <div align="center">
   <a href="https://facebook.com/"><img src="https://img.shields.io/badge/facebook-ffffff?style=for-the-badge&logo=facebook&logoColor=69957B" /></a> 
   <br>
-  <a href="https://discordapp.com/users/776749637826117699"><img src="https://img.shields.io/badge/Discord-69957B?style=for-the-badge&logo=discord&logoColor=ffffff" alt="nyenyee#7140" >
+  <a href="https://discordapp.com/users/802200281781108817"><img src="https://img.shields.io/badge/Discord-69957B?style=for-the-badge&logo=discord&logoColor=ffffff" alt="nyenyee#7140" >
   <a href="https://www.tiktok.com/"><img src="https://img.shields.io/badge/tiktok-69957B?style=for-the-badge&logo=tiktok&logoColor=ffffff" /></a>
   <br>
   <a href="https://www.gmail.com/"><img src="https://img.shields.io/badge/gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=69957B" ></a>
