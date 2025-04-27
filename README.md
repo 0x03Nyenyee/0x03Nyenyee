@@ -37,7 +37,7 @@
 <img align="right" width="38%" src="https://nyenyeeits.me/images/gh/tatsumaki.png"/>
 
   <a href="https://github.com/0x03Nyenyee"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=0x03Nyenyee&theme=tokyonight&title_color=ff3068?"></a>
-  <img src="https://streak-stats.demolab.com?user=0x03Nyenyee&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=0x03Nyenyee&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 
 ## <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">  My top open source projects
 
