@@ -1,6 +1,6 @@
 [![](https://visitcountpro.netlify.app/api?id=0x03Nyenyee&label=Views%20%E0%B4%A6%E0%B5%8D%E0%B4%A6%E0%B4%BF(%CB%B5%20%E2%80%A2%CC%80%20%E1%B4%97%20-%20%CB%B5%20)%20%E2%9C%A7&color=9&icon=7&pretty=true)](https://visitcount.itsvg.in)
 
-![](https://nyenyeeits.me/images/gh/plank.png)
+![](https://nyenyeits.me/images/gh/plank.png)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div align="center" bis_skin_checked="1">
@@ -12,7 +12,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> My socials
 
-> You can like, follow or send me message, and we can play game if you want. Because i am [NOLEP](https://nyenyeeits.me/)
+> You can like, follow or send me message, and we can play game if you want. Because i am [NOLEP](https://nyenyeits.me/)
 <div align="center">
   <a href="https://facebook.com/Anmol-Baranwal"><img src="https://img.shields.io/badge/facebook-ffffff?style=for-the-badge&logo=facebook&logoColor=69957B" /></a> 
   <br>
@@ -34,7 +34,7 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Github Stats
 > Dont Believe you see, This is Just...............
 
-<img align="right" width="38%" src="https://nyenyeeits.me/images/gh/tatsumaki.png"/>
+<img align="right" width="38%" src="https://nyenyeits.me/images/gh/tatsumaki.png"/>
 
   <a href="https://github.com/0x03Nyenyee"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=0x03Nyenyee&theme=tokyonight&title_color=ff3068?"></a>
   <img src="https://streak-stats.demolab.com?user=0x03Nyenyee&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
